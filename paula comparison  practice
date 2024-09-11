@@ -1,0 +1,13 @@
+let x = 10;
+let y = 11;
+
+//Use comparison operators an store the result in variables 
+let isXGraterThanY = x > y;
+let isLessThanY = x < y;
+let isGEqualtoY = x == y;
+let isXNotEqualToY = x!==y;
+
+console.log("Is X grater than Y?", isXGreaterThanY);
+console.log("Is X less than Y?", isXLessThanY);
+console.log("Is X equal to Y?",isXGEqualToY);
+console.log("Is X not equal to Y?", isXNotEqualToY);
